@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education |low degrees | student degrees| sql|know where student fail the most so we can improve that |
+| Vaccination |Number of vaccin | how many Patients need vaccin | data lake | how many vaccin we need to made|
+| Productivity |have low productivity | how many task i get done in a period of time |sql |am i good or need to improve my time using |
 
 ## Rubric
 
